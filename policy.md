@@ -29,8 +29,8 @@ vulnerabilities, NATO follows the disclosure process described below.
   distributed publicly or to third parties.
 - The vendor evaluates the reported vulnerabilities and provides feedback on
   their validity:
-  - **If valid:** The vendor proposes a timeline for addressing the issues and
-    assigns a **CVE number** through MITRE.
+  - **If valid:** The vendor proposes a timeline for addressing the issues and the
+    NCSC assigns a **CVE number** unless the vendor has their own CNA.
   - **If not valid:** The vendor must provide a detailed explanation for their
     position and engage in further discussion regarding the validity of the
     findings.

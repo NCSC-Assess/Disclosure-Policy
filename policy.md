@@ -6,7 +6,7 @@ As part of the NATO procedure for including products in the **NATO Approved
 Software List**, the **NATO Cyber Security Centre (NCSC)** conducts penetration
 tests on candidate products. When such an assessment identifies security
 vulnerabilities, NATO follows the disclosure process described below.
-Please note that NATO will only act as a CNA for vulnerabilities it has discovered or developed internally.
+Please note that NATO will only act as a CNA for vulnerabilities it has discovered internally.
 
 ## Process Steps
 

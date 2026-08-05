@@ -65,6 +65,8 @@ Please note that NATO will only act as a CNA for vulnerabilities it has discover
 - The NCSC recommends **against** including any of the vendor's products in the
   NATO Approved Software List.
 - The NCSC will **not** distribute the report to the vendor.
+- The NCSC CNA will assign CVE numbers where it sees fit.
+  If the vendor disagrees they can be disputed via the official channels.
 
 ## Guiding Principle
 
